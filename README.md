@@ -13,7 +13,10 @@
 4. 등급 별 구매 트렌드를 파악하여 적합한 마케팅 전략 제시
 
 < 예시 결과 >
-<img width="851" alt="image" src="https://user-images.githubusercontent.com/87609200/215305848-cc8ef3f7-161e-4607-99cb-5b83df5d947d.png">
+
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/87609200/215305869-b7695cef-f5f5-43e1-95d2-5fa1f9ab61f4.png">
+
+<img width="601" alt="image" src="https://user-images.githubusercontent.com/87609200/215305876-39ad4389-72e4-49f9-b0d4-b241bcf40789.png">
 
 
 
